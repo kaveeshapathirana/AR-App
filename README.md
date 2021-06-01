@@ -1,2 +1,2 @@
 # AR-App
-AR App for object plancement
+AR App for object placement
